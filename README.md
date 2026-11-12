@@ -17,4 +17,4 @@ Aplicación web desarrollada bajo el patrón MVC utilizando **Java 17**, **Jakar
 4. Acceder desde el navegador a: `http://localhost:8080/billetera-digital/billetera`
 
 ## Evidencias de funcionamiento
-Las capturas de pantalla de todas las pruebas (inicio, recarga, gasto, validaciones de error y reinicio) se encuentran en la carpeta [`EVIDENCIAS/`](./EVIDENCIAS).
+Las capturas de pantalla de todas las pruebas (inicio, recarga, gasto, validaciones de error y reinicio) se encuentran en la carpeta EVIDENCIAS.
